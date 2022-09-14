@@ -21,5 +21,5 @@ Part - 3:
 
 - docker pull prom/prometheus:v2.22.0
 - Uing docker-compse file to create prometheus container add port to container 9090:9090
-- Type 'csvserver_records' in the query box of Prometheus.
+- Type '''csvserver_records''' in the query box of Prometheus.
 - Make sure that Prometheus is accessible at 'http://localhost:9090' on the host.
